@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "workflow with npm, sass, gulp and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knolegsb/workflow.git"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "git",
+    "gulp"
+  ],
+  "author": "Goodsean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knolegsb/workflow/issues"
+  },
+  "homepage": "https://github.com/knolegsb/workflow#readme"
+}
